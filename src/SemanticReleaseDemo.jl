@@ -4,6 +4,4 @@ module SemanticReleaseDemo
 
 f() = "hello world"
 
-g() = "hello, again"
-
 end
